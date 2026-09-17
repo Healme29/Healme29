@@ -13,6 +13,11 @@
   <a href="https://github.com/Healme29"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Healme29-0B1220?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
+<!-- GITHUB CONTRIBUTION SNAKE ANIMATION -->
+<p align="center">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Healme29/Healme29/output/github-contribution-grid-snake-dark.svg" width="100%">
+</p>
+
 ## About Me
 
 I build practical systems at the intersection of artificial intelligence, software engineering, and products people can trust.
