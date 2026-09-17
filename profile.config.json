@@ -1,12 +1,12 @@
 {
   "$schema": "./profile.schema.json",
   "profile": {
-    "name": "Your Name",
-    "username": "yourusername",
-    "headline": "AI Engineer & Product Builder",
-    "affiliation": "Your University or Company",
-    "location": "City, Country",
-    "status": "Learning / Building / Shipping",
+    "name": "Hilmi",
+    "username": "Healme29",
+    "headline": "Telecomunication, Network, Robotics",
+    "affiliation": "Nanjing Youdian Daxue",
+    "location": "NKG",
+    "status": "Laerning",
     "about": [
       "I build practical systems at the intersection of artificial intelligence, software engineering, and products people can trust.",
       "My work combines technical exploration with a builder mindset: understand the problem, test the system, and share what actually works."
@@ -35,7 +35,7 @@
   "projects": [
     {
       "name": "Project One",
-      "url": "https://github.com/yourusername/project-one",
+      "url": "https://github.com/Healme29/project-one",
       "homepage": "",
       "focus": "Primary project focus",
       "summary": "A concise explanation of what the project does and why it matters.",
@@ -43,7 +43,7 @@
     },
     {
       "name": "Project Two",
-      "url": "https://github.com/yourusername/project-two",
+      "url": "https://github.com/Healme29/project-two",
       "homepage": "",
       "focus": "Secondary project focus",
       "summary": "A second project that supports the professional direction of this profile.",
@@ -60,8 +60,8 @@
   "links": [
     {
       "label": "GitHub",
-      "value": "yourusername",
-      "url": "https://github.com/yourusername",
+      "value": "Healme29",
+      "url": "https://github.com/Healme29",
       "logo": "github",
       "color": "0B1220"
     }
