@@ -50,12 +50,12 @@ I am interested in systems that can observe state, use tools, evaluate outcomes,
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
+- Oct 7, 2026: created a branch in [ppit-nanjing/PPIT_nanjing](https://github.com/ppit-nanjing/PPIT_nanjing).
 - Oct 1, 2026: pushed 1 commit to [Healme29/link-device](https://github.com/Healme29/link-device).
 - Sep 24, 2026: pushed 1 commit to [Healme29/An-Integrated-Attendance-Solution-Merging-Wi-Fi-AP-Data-with-Two-Stage-Face-Recognition](https://github.com/Healme29/An-Integrated-Attendance-Solution-Merging-Wi-Fi-AP-Data-with-Two-Stage-Face-Recognition).
 - Sep 23, 2026: pushed 1 commit to [Healme29/An-Integrated-Attendance-Solution-Merging-Wi-Fi-AP-Data-with-Two-Stage-Face-Recognition](https://github.com/Healme29/An-Integrated-Attendance-Solution-Merging-Wi-Fi-AP-Data-with-Two-Stage-Face-Recognition).
 - Sep 17, 2026: created a branch in [Healme29/An-Integrated-Attendance-Solution-Merging-Wi-Fi-AP-Data-with-Two-Stage-Face-Recognition](https://github.com/Healme29/An-Integrated-Attendance-Solution-Merging-Wi-Fi-AP-Data-with-Two-Stage-Face-Recognition).
 - Sep 17, 2026: pushed 1 commit to [Healme29/Healme29](https://github.com/Healme29/Healme29).
-- Sep 17, 2026: pushed 1 commit to [Healme29/An-Integrated-Attendance-Solution-Merging-Wi-Fi-AP-Data-with-Two-Stage-Face-Recognition](https://github.com/Healme29/An-Integrated-Attendance-Solution-Merging-Wi-Fi-AP-Data-with-Two-Stage-Face-Recognition).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
