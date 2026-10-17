@@ -50,12 +50,12 @@ I am interested in systems that can observe state, use tools, evaluate outcomes,
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
+- Oct 15, 2026: created a branch in [ppit-nanjing/PPIT_nanjing](https://github.com/ppit-nanjing/PPIT_nanjing).
 - Oct 13, 2026: created a branch in [ppit-nanjing/PPIT_nanjing](https://github.com/ppit-nanjing/PPIT_nanjing).
 - Oct 9, 2026: created a branch in [ppit-nanjing/PPIT_nanjing](https://github.com/ppit-nanjing/PPIT_nanjing).
 - Oct 9, 2026: pushed 1 commit to [ppit-nanjing/PPIT_nanjing](https://github.com/ppit-nanjing/PPIT_nanjing).
 - Oct 9, 2026: opened pull request [#77](https://github.com/ppit-nanjing/PPIT_nanjing) in [ppit-nanjing/PPIT_nanjing](https://github.com/ppit-nanjing/PPIT_nanjing).
 - Oct 7, 2026: created a branch in [ppit-nanjing/PPIT_nanjing](https://github.com/ppit-nanjing/PPIT_nanjing).
-- Oct 1, 2026: pushed 1 commit to [Healme29/link-device](https://github.com/Healme29/link-device).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
