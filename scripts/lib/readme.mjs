@@ -80,6 +80,11 @@ export async function generateProfileReadme({ config, manifest, readmePath }) {
 ${renderLinks(config.links)}
 </p>
 
+<!-- GITHUB CONTRIBUTION SNAKE ANIMATION -->
+<p align="center">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Healme29/Healme29/output/github-contribution-grid-snake-dark.svg" width="100%">
+</p>
+
 ## About Me
 
 ${about}
