@@ -3,59 +3,64 @@
   "profile": {
     "name": "Hilmi",
     "username": "Healme29",
-    "headline": "Telecomunication, Network, Robotics",
+    "headline": "Network, IoT, Robotics, ML, Cyber Security",
     "affiliation": "Nanjing Youdian Daxue",
     "location": "NKG",
-    "status": "Laerning",
+    "status": "Student",
     "about": [
-      "I build practical systems at the intersection of artificial intelligence, software engineering, and products people can trust.",
-      "My work combines technical exploration with a builder mindset: understand the problem, test the system, and share what actually works."
+      "I have a strong interest in network development, IoT, robotics, machine learning, and cybersecurity, and I am able to work effectively as part of a team.",
+      "My work combines technical exploration with a builder mindset: understand the problem, develop a thorough solution plan, execution, test the system, and share what actually works."
     ]
   },
   "research": {
-    "primary": "AI Agents",
+    "primary": "IoT",
     "direction": "Reliable autonomous systems",
-    "themes": "Tool use / evaluation / human control",
-    "narrative": "I am interested in systems that can observe state, use tools, evaluate outcomes, and take bounded actions with clear evidence and human oversight."
+    "themes": "Sensor Fusion / Edge decision-making",
+    "narrative": "I am interested in IoT systems that can sense physical states, autonomously actuate tools or devices, evaluate real-world outcomes, and execute bounded actions with verifiable logs and human-in-the-loop control."
   },
   "focus": [
     {
-      "name": "AI Agents",
-      "description": "Autonomous workflows, tool use, evaluation, and reliable agent behavior."
+      "name": "Deep Learning",
+      "description": "Complex data processing, such as images (Computer Vision)."
     },
     {
-      "name": "Applied AI",
-      "description": "Turning model capabilities into useful and testable software systems."
+      "name": "Model Deployment",
+      "description": "apply the model to real-world systems (such as IoT devices or web applications)."
     },
     {
-      "name": "Developer Tools",
-      "description": "Better workflows for building, testing, and operating modern software."
+      "name": "Software Engineering",
+      "description": "Design and implement software systems, including web applications and embedded systems."
     }
   ],
   "projects": [
     {
-      "name": "Project One",
-      "url": "https://github.com/Healme29/project-one",
+      "name": "Attendance System",
+      "url": "https://github.com/Healme29/An-Integrated-Attendance-Solution-Merging-Wi-Fi-AP-Data-with-Two-Stage-Face-Recognition",
       "homepage": "",
-      "focus": "Primary project focus",
-      "summary": "A concise explanation of what the project does and why it matters.",
-      "heroLabel": "Primary build"
-    },
-    {
-      "name": "Project Two",
-      "url": "https://github.com/Healme29/project-two",
-      "homepage": "",
-      "focus": "Secondary project focus",
-      "summary": "A second project that supports the professional direction of this profile.",
-      "heroLabel": "Active system"
+      "focus": "Computer vision for attendance tracking",
+      "summary": "This project demonstrates an integrated approach to attendance tracking using Wi-Fi AP data and two-stage face recognition.",
+      "heroLabel": "STITP Project"
     }
   ],
   "techStack": [
     "TypeScript",
-    "Next.js",
     "Python",
+    "C++",
+    "PyTorch",
+    "Arduino",
+    "ESP32",
+    "Nmap",
+    "Linux",
+    "Next.js",
+    "Wireshark",
     "PostgreSQL",
-    "Playwright"
+    "Hydra",
+    "FastAPI",
+    "YOLO",
+    "Flutter",
+    "Scapy ARP scan",
+    "YOLO",
+    "Burp Suite"
   ],
   "links": [
     {
