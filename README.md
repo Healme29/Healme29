@@ -49,12 +49,12 @@ I am interested in IoT systems that can sense physical states, autonomously actu
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
+- Nov 24, 2026: opened pull request [#2](https://github.com/AMQStudio/MonoAgens) in [AMQStudio/MonoAgens](https://github.com/AMQStudio/MonoAgens).
+- Nov 22, 2026: pushed 1 commit to [Healme29/Healme29](https://github.com/Healme29/Healme29).
 - Nov 20, 2026: created a branch in [Healme29/An-Integrated-Attendance-Solution-Merging-Wi-Fi-AP-Data-with-Two-Stage-Face-Recognition](https://github.com/Healme29/An-Integrated-Attendance-Solution-Merging-Wi-Fi-AP-Data-with-Two-Stage-Face-Recognition).
 - Nov 20, 2026: pushed 1 commit to [Healme29/An-Integrated-Attendance-Solution-Merging-Wi-Fi-AP-Data-with-Two-Stage-Face-Recognition](https://github.com/Healme29/An-Integrated-Attendance-Solution-Merging-Wi-Fi-AP-Data-with-Two-Stage-Face-Recognition).
 - Nov 20, 2026: opened pull request [#17](https://github.com/Healme29/An-Integrated-Attendance-Solution-Merging-Wi-Fi-AP-Data-with-Two-Stage-Face-Recognition) in [Healme29/An-Integrated-Attendance-Solution-Merging-Wi-Fi-AP-Data-with-Two-Stage-Face-Recognition](https://github.com/Healme29/An-Integrated-Attendance-Solution-Merging-Wi-Fi-AP-Data-with-Two-Stage-Face-Recognition).
 - Nov 18, 2026: pushed 1 commit to [Healme29/An-Integrated-Attendance-Solution-Merging-Wi-Fi-AP-Data-with-Two-Stage-Face-Recognition](https://github.com/Healme29/An-Integrated-Attendance-Solution-Merging-Wi-Fi-AP-Data-with-Two-Stage-Face-Recognition).
-- Nov 11, 2026: created a branch in [Healme29/My-Personal-Portofolio](https://github.com/Healme29/My-Personal-Portofolio).
-- Nov 12, 2026: pushed 1 commit to [ppit-nanjing/PPIT_nanjing](https://github.com/ppit-nanjing/PPIT_nanjing).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
