@@ -49,12 +49,12 @@ I am interested in IoT systems that can sense physical states, autonomously actu
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
+- Nov 24, 2026: created a branch in [Healme29/MonoAgens](https://github.com/Healme29/MonoAgens).
+- Nov 24, 2026: created a branch in [Healme29/Pull-Up-Coach-Detector](https://github.com/Healme29/Pull-Up-Coach-Detector).
+- Nov 24, 2026: pushed 1 commit to [Healme29/Pull-Up-Coach-Detector](https://github.com/Healme29/Pull-Up-Coach-Detector).
+- Nov 24, 2026: merged pull request [#2](https://github.com/AMQStudio/MonoAgens) in [AMQStudio/MonoAgens](https://github.com/AMQStudio/MonoAgens).
 - Nov 24, 2026: opened pull request [#2](https://github.com/AMQStudio/MonoAgens) in [AMQStudio/MonoAgens](https://github.com/AMQStudio/MonoAgens).
 - Nov 22, 2026: pushed 1 commit to [Healme29/Healme29](https://github.com/Healme29/Healme29).
-- Nov 20, 2026: created a branch in [Healme29/An-Integrated-Attendance-Solution-Merging-Wi-Fi-AP-Data-with-Two-Stage-Face-Recognition](https://github.com/Healme29/An-Integrated-Attendance-Solution-Merging-Wi-Fi-AP-Data-with-Two-Stage-Face-Recognition).
-- Nov 20, 2026: pushed 1 commit to [Healme29/An-Integrated-Attendance-Solution-Merging-Wi-Fi-AP-Data-with-Two-Stage-Face-Recognition](https://github.com/Healme29/An-Integrated-Attendance-Solution-Merging-Wi-Fi-AP-Data-with-Two-Stage-Face-Recognition).
-- Nov 20, 2026: opened pull request [#17](https://github.com/Healme29/An-Integrated-Attendance-Solution-Merging-Wi-Fi-AP-Data-with-Two-Stage-Face-Recognition) in [Healme29/An-Integrated-Attendance-Solution-Merging-Wi-Fi-AP-Data-with-Two-Stage-Face-Recognition](https://github.com/Healme29/An-Integrated-Attendance-Solution-Merging-Wi-Fi-AP-Data-with-Two-Stage-Face-Recognition).
-- Nov 18, 2026: pushed 1 commit to [Healme29/An-Integrated-Attendance-Solution-Merging-Wi-Fi-AP-Data-with-Two-Stage-Face-Recognition](https://github.com/Healme29/An-Integrated-Attendance-Solution-Merging-Wi-Fi-AP-Data-with-Two-Stage-Face-Recognition).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
