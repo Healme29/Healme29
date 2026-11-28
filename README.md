@@ -49,12 +49,12 @@ I am interested in IoT systems that can sense physical states, autonomously actu
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
-- Nov 24, 2026: pushed 1 commit to [Healme29/MonoAgens](https://github.com/Healme29/MonoAgens).
-- Nov 24, 2026: created a branch in [Healme29/MonoAgens](https://github.com/Healme29/MonoAgens).
-- Nov 24, 2026: created a branch in [Healme29/Pull-Up-Coach-Detector](https://github.com/Healme29/Pull-Up-Coach-Detector).
-- Nov 24, 2026: pushed 1 commit to [Healme29/Pull-Up-Coach-Detector](https://github.com/Healme29/Pull-Up-Coach-Detector).
-- Nov 24, 2026: merged pull request [#2](https://github.com/AMQStudio/MonoAgens) in [AMQStudio/MonoAgens](https://github.com/AMQStudio/MonoAgens).
-- Nov 24, 2026: opened pull request [#2](https://github.com/AMQStudio/MonoAgens) in [AMQStudio/MonoAgens](https://github.com/AMQStudio/MonoAgens).
+- Nov 27, 2026: closed issue [#11](https://github.com/Healme29/An-Integrated-Attendance-Solution-Merging-Wi-Fi-AP-Data-with-Two-Stage-Face-Recognition/issues/11) in [Healme29/An-Integrated-Attendance-Solution-Merging-Wi-Fi-AP-Data-with-Two-Stage-Face-Recognition](https://github.com/Healme29/An-Integrated-Attendance-Solution-Merging-Wi-Fi-AP-Data-with-Two-Stage-Face-Recognition).
+- Nov 27, 2026: closed issue [#9](https://github.com/Healme29/An-Integrated-Attendance-Solution-Merging-Wi-Fi-AP-Data-with-Two-Stage-Face-Recognition/issues/9) in [Healme29/An-Integrated-Attendance-Solution-Merging-Wi-Fi-AP-Data-with-Two-Stage-Face-Recognition](https://github.com/Healme29/An-Integrated-Attendance-Solution-Merging-Wi-Fi-AP-Data-with-Two-Stage-Face-Recognition).
+- Nov 27, 2026: closed issue [#8](https://github.com/Healme29/An-Integrated-Attendance-Solution-Merging-Wi-Fi-AP-Data-with-Two-Stage-Face-Recognition/issues/8) in [Healme29/An-Integrated-Attendance-Solution-Merging-Wi-Fi-AP-Data-with-Two-Stage-Face-Recognition](https://github.com/Healme29/An-Integrated-Attendance-Solution-Merging-Wi-Fi-AP-Data-with-Two-Stage-Face-Recognition).
+- Nov 27, 2026: closed issue [#7](https://github.com/Healme29/An-Integrated-Attendance-Solution-Merging-Wi-Fi-AP-Data-with-Two-Stage-Face-Recognition/issues/7) in [Healme29/An-Integrated-Attendance-Solution-Merging-Wi-Fi-AP-Data-with-Two-Stage-Face-Recognition](https://github.com/Healme29/An-Integrated-Attendance-Solution-Merging-Wi-Fi-AP-Data-with-Two-Stage-Face-Recognition).
+- Nov 27, 2026: closed issue [#6](https://github.com/Healme29/An-Integrated-Attendance-Solution-Merging-Wi-Fi-AP-Data-with-Two-Stage-Face-Recognition/issues/6) in [Healme29/An-Integrated-Attendance-Solution-Merging-Wi-Fi-AP-Data-with-Two-Stage-Face-Recognition](https://github.com/Healme29/An-Integrated-Attendance-Solution-Merging-Wi-Fi-AP-Data-with-Two-Stage-Face-Recognition).
+- Nov 27, 2026: closed issue [#5](https://github.com/Healme29/An-Integrated-Attendance-Solution-Merging-Wi-Fi-AP-Data-with-Two-Stage-Face-Recognition/issues/5) in [Healme29/An-Integrated-Attendance-Solution-Merging-Wi-Fi-AP-Data-with-Two-Stage-Face-Recognition](https://github.com/Healme29/An-Integrated-Attendance-Solution-Merging-Wi-Fi-AP-Data-with-Two-Stage-Face-Recognition).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
